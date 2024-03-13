@@ -16,10 +16,7 @@ p{
 body{
     background-color: white;
 }
-header{
-    width: 100%;
-    height: 80px;
-}
+
 footer{
     background-color: #27A7DA;
     margin-top: 50px;
@@ -361,4 +358,10 @@ margin-bottom: 15px;
     .SobreNosotros p{
         margin-bottom: 20px;
     }
+}
+.ContenedorFooter img{
+    margin-top: 50px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
 }
